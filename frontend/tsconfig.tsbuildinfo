@@ -1,1 +1,1 @@
-{"root":["./src/activitypanel.tsx","./src/app.tsx","./src/memorydetailmodal.tsx","./src/memorypanel.tsx","./src/messagecontent.tsx","./src/thinkingindicator.tsx","./src/api.ts","./src/main.tsx","./src/memoryshared.ts","./src/vite-env.d.ts"],"version":"5.7.3"}
+{"root":["./src/activitypanel.tsx","./src/app.tsx","./src/compactedhistorymodal.tsx","./src/memorydetailmodal.tsx","./src/memorypanel.tsx","./src/messagecontent.tsx","./src/thinkingindicator.tsx","./src/api.ts","./src/main.tsx","./src/memoryshared.ts","./src/threadurl.ts","./src/vite-env.d.ts"],"version":"5.7.3"}
